@@ -12,6 +12,20 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
   - (placeholder)
 
 - **Changed**
+  - (placeholder)
+
+- **Fixed**
+  - (placeholder)
+
+- **Security**
+  - (placeholder)
+
+## [1.0.11] - 2026-06-01
+
+- **Added**
+  - (placeholder)
+
+- **Changed**
   - Removed the unused `react` peer dependency so the published package contract matches the static asset export surface.
 
 - **Fixed**
@@ -149,7 +163,7 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ---
 
-[Unreleased]: https://github.com/Plasius-LTD/sharedassets/compare/v1.0.10...HEAD
+[Unreleased]: https://github.com/Plasius-LTD/sharedassets/compare/v1.0.11...HEAD
 
 ## [1.0.0] - 2026-02-11
 
@@ -172,3 +186,4 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 [1.0.8]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.8
 [1.0.9]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.9
 [1.0.10]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.10
+[1.0.11]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.11
