@@ -8,6 +8,20 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ## [Unreleased]
 
+- **Added**
+  - (placeholder)
+
+- **Changed**
+  - (placeholder)
+
+- **Fixed**
+  - (placeholder)
+
+- **Security**
+  - (placeholder)
+
+## [1.0.22] - 2026-10-25
+
 - Refresh npm dependency lockfile to current supported stable versions (weekly maintenance, 2026-10-25).
 
 - **Added**
@@ -312,7 +326,7 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ---
 
-[Unreleased]: https://github.com/Plasius-LTD/sharedassets/compare/v1.0.21...HEAD
+[Unreleased]: https://github.com/Plasius-LTD/sharedassets/compare/v1.0.22...HEAD
 
 ## [1.0.0] - 2026-02-11
 
@@ -345,3 +359,4 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 [1.0.19]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.19
 [1.0.20]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.20
 [1.0.21]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.21
+[1.0.22]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.22
