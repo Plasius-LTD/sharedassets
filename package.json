@@ -1,6 +1,6 @@
 {
   "name": "@plasius/sharedassets",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "Plasius shared asset library, allowing devs to utilise common components",
   "keywords": [
     "Components",
