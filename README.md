@@ -32,11 +32,12 @@ import { PlasiusLTDLogo } from "@plasius/sharedassets";
 ### Chrome shell branding
 
 Import the variant you need from the package root. The original
-`PlasiusLTDLogo` remains the canonical asset.
+`PlasiusLTDLogo` remains the canonical asset. The named slots use the same
+logo artwork; the shell applies the theme and layout.
 
 | Export | Intended use |
 | --- | --- |
-| `PlasiusLTDLogoChromeMark` | Polished mark for shell branding |
+| `PlasiusLTDLogoChromeMark` | Mark for the polished shell |
 | `PlasiusLTDLogoChromeHeaderLight` | Header in the light theme |
 | `PlasiusLTDLogoChromeHeaderDark` | Header in the dark theme |
 | `PlasiusLTDLogoChromeIcon` | Compact logo for narrow or mobile layouts |
