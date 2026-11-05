@@ -29,6 +29,30 @@ When CJS output is emitted under `dist-cjs/*.js` with `type: module`, `dist-cjs/
 import { PlasiusLTDLogo } from "@plasius/sharedassets";
 ```
 
+### Chrome shell branding
+
+Import the variant you need from the package root. The original
+`PlasiusLTDLogo` remains the canonical asset.
+
+| Export | Intended use |
+| --- | --- |
+| `PlasiusLTDLogoChromeMark` | Polished mark for shell branding |
+| `PlasiusLTDLogoChromeHeaderLight` | Header in the light theme |
+| `PlasiusLTDLogoChromeHeaderDark` | Header in the dark theme |
+| `PlasiusLTDLogoChromeIcon` | Compact logo for narrow or mobile layouts |
+
+```tsx
+import { PlasiusLTDLogoChromeIcon } from "@plasius/sharedassets";
+
+<img src={PlasiusLTDLogoChromeIcon} alt="Plasius Ltd" />
+```
+
+If the same brand name is already visible next to the image, use empty alt text
+to avoid repeating it. The Plasius site loads the chrome variants when its
+`site.shell.chrome-metal.enabled` rollout selects the polished appearance and
+uses the canonical logo when disabled or when the variants cannot load.
+The package exports asset URLs; the consuming app owns theme selection and rollout.
+
 ## Development
 
 ```bash
