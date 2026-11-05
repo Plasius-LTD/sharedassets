@@ -12,6 +12,20 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
   - (placeholder)
 
 - **Changed**
+  - (placeholder)
+
+- **Fixed**
+  - (placeholder)
+
+- **Security**
+  - (placeholder)
+
+## [1.0.24] - 2026-11-05
+
+- **Added**
+  - (placeholder)
+
+- **Changed**
   - Documented the chrome shell logo exports, accessible usage, and canonical fallback.
 
 - **Fixed**
@@ -342,7 +356,7 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 
 ---
 
-[Unreleased]: https://github.com/Plasius-LTD/sharedassets/compare/v1.0.23...HEAD
+[Unreleased]: https://github.com/Plasius-LTD/sharedassets/compare/v1.0.24...HEAD
 
 ## [1.0.0] - 2026-02-11
 
@@ -377,3 +391,4 @@ The format is based on **[Keep a Changelog](https://keepachangelog.com/en/1.1.0/
 [1.0.21]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.21
 [1.0.22]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.22
 [1.0.23]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.23
+[1.0.24]: https://github.com/Plasius-LTD/sharedassets/releases/tag/v1.0.24
